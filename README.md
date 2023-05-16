@@ -1,4 +1,4 @@
-# GLAB-370.1.3 The List Chronicles: Python Edition
+# GLAB-370.1.3 The List Chronicles
 
 ## Introduction
 Welcome to GLAB-370.1.3! Prepare yourself for an epic adventure into the realm of lists in Python. In this lab, you'll embark on a journey through The List Chronicles, where you'll master the art of manipulating lists and unleashing their power. Get ready to experience the magic of Python lists!
@@ -51,4 +51,4 @@ Feel free to embrace these ideas or create your own heroic list quests. Harness 
 Once you've conquered coding challenges with your list powers, share your heroic creations with your instructor.
 
 ## Conclusion
-Congratulations on completing The List Chronicles: Python Edition! You have mastered the art of manipulating lists and harnessed the power of Python lists to conquer coding challenges. Take these newfound list powers and continue your journey into the vast realms of Python programming. The list universe is vast and full of possibilities—keep exploring, creating, and conquering with your list powers!
+Congratulations on completing The **List Chronicles!** You have mastered the art of manipulating lists and harnessed the power of Python lists to conquer coding challenges. Take these newfound list powers and continue your journey into the vast realms of Python programming. The list universe is vast and full of possibilities—keep exploring, creating, and conquering with your list powers!
